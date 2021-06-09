@@ -1,4 +1,4 @@
-function helloIronhack() {
+const helloIronhack = () => {
   return 'Hello Ironhackers!';
 }
 
